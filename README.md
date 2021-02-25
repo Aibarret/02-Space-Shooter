@@ -9,10 +9,10 @@ Built using Godot 3.2.3
 Includes WASD mappings (up, left, down, right) and escape to quit.
 
 ## References
-None
+Sprites created by myself
 
 ## Future Development
-None
+some JUICE, maybe a life counter or something.
 
 ## Created by 
 Aidan Barrett
